@@ -1,0 +1,41 @@
+* {
+    color: white;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background: black;
+    margin: 2em auto;
+    max-width: 500px;
+    padding: 1.5em;
+
+}
+
+.highlight {
+    color: aquamarine;
+}
+
+.date {
+    color: #c8c8c8;
+    margin: 0;
+    font-size: .7em;
+}
+
+.container {
+    margin-top: 15px;
+}
+
+#skills > #badges {
+    margin-top: 10px;
+}
+
+#skills > #badges> i {
+    margin-right: 5px;
+}
+
+.job {
+    margin: 15px 0;
+    padding-left: 15px;
+    border-left: 2px solid #323232;
+}
