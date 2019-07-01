@@ -6,13 +6,13 @@
 
 body {
     background: black;
-    margin: 2em auto;
+    margin: 1em auto;
     max-width: 600px;
     padding: 1.5em;
 }
 
 p, li, details {
-    font-size: .8em;
+    font-size: .8rem;
 }
 
 .highlight {
@@ -21,7 +21,7 @@ p, li, details {
 
 .sub-highlight {
     color: #c8c8c8;
-    margin: 3px 0;
+    margin: 2px 0;
     font-size: .6em;
 }
 
@@ -35,6 +35,33 @@ p, li, details {
     border-left: 2px solid #323232;
 }
 
+#links {
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 30px;
+}
+
+#links .fab{
+    font-size: 1.2em;
+    margin-right: 10px;
+}
+
+#email-link {
+    font-size: 0.85em;
+    text-decoration: none;
+    text-align: right;
+    flex-basis: 100%;
+}
+
+#links a:hover, #links .fab:hover {
+    color: aquamarine;
+}
+
+#welcome {
+    margin-bottom: 25px;
+}
+
 #skills > #badges {
     margin-top: 10px;
 }
@@ -43,6 +70,14 @@ p, li, details {
     margin-right: 5px;
 }
 
+#work li{
+    margin: 5px 0;
+}
+
 #description, details {
     padding-left: 20px;
+}
+
+#classes > h4 {
+    margin-bottom: 3px;
 }
