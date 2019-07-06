@@ -47,14 +47,17 @@ p, li, details {
     margin-right: 10px;
 }
 
-#email-link {
+#links > a:last-child {
     font-size: 0.85em;
+}
+
+.externalLink {
     text-decoration: none;
     text-align: right;
     flex-basis: 100%;
 }
 
-#links a:hover, #links .fab:hover {
+#links .fab:hover, .externalLink:hover {
     color: aquamarine;
 }
 
