@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14509d3c-6c79-4c5e-b669-87075f033fad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Watch History.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Watch List.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/movie details 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/movie details 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reminder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/search result.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="74" column="88" lean-forward="true" selection-start-line="74" selection-start-column="88" selection-end-line="74" selection-end-column="88" />
+            <state relative-caret-position="585">
+              <caret line="69" column="62" selection-start-line="69" selection-start-column="62" selection-end-line="69" selection-end-column="62" />
               <folding>
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -66,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="131" />
     <option name="y" value="35" />
     <option name="width" value="1203" />
@@ -140,15 +132,15 @@
       <workItem from="1561956005887" duration="14000" />
       <workItem from="1561959224569" duration="4720000" />
       <workItem from="1562206836064" duration="2456000" />
-      <workItem from="1562807051109" duration="2474000" />
+      <workItem from="1562807051109" duration="2599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19392000" />
+    <option name="totallyTimeSpent" value="19517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="35" width="1203" height="973" extended-state="1" />
+    <frame x="131" y="35" width="1203" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15820643" />
@@ -176,8 +168,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="74" column="88" lean-forward="true" selection-start-line="74" selection-start-column="88" selection-end-line="74" selection-end-column="88" />
+        <state relative-caret-position="585">
+          <caret line="69" column="62" selection-start-line="69" selection-start-column="62" selection-end-line="69" selection-end-column="62" />
           <folding>
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
           </folding>
