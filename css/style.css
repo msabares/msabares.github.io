@@ -26,7 +26,7 @@ p, li, details {
 }
 
 .container {
-    margin-top: 15px;
+    margin: 25px 0 25px 0;
 }
 
 .sub-container {
@@ -43,18 +43,17 @@ p, li, details {
 }
 
 #links .fab{
-    font-size: 1.2em;
+    font-size: 1.3em;
     margin-right: 10px;
 }
 
 #links > a:last-child {
     font-size: 0.85em;
+    margin-left: auto;
 }
 
 .externalLink {
     text-decoration: none;
-    text-align: right;
-    flex-basis: 100%;
 }
 
 #links .fab:hover, .externalLink:hover {
@@ -65,12 +64,17 @@ p, li, details {
     margin-bottom: 25px;
 }
 
-#skills > #badges {
-    margin-top: 10px;
+#skills > #techSkills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
-#skills > #badges> i {
-    margin-right: 5px;
+#skills > #techSkills > div {
+}
+
+#skills > #techSkills > div > h4 {
+    margin-bottom: 3px;
 }
 
 #work li{
@@ -83,4 +87,14 @@ p, li, details {
 
 #classes > h4 {
     margin-bottom: 3px;
+}
+
+@media only screen and (max-width: 620px) {
+    #skills > #techSkills {
+        flex-direction: column;
+    }
+
+    #skills > #techSkills > div {
+        margin-bottom: 15px;
+    }
 }
