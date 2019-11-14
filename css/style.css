@@ -50,12 +50,23 @@ p, li, details {
 #links > a:last-child {
     font-size: 0.85em;
     margin-left: auto;;
+    color: white;
+
+}
+
+#links .fab:hover {
+    color: #FF7FAA;
+    text-decoration: none;
+}
+
+#links > a:hover {
+    color: #FF7FAA;
 }
 
 .externalLink {
     text-decoration: none;
     border-bottom: 2px solid transparent;
-    color: #a1e6cf;
+    color: #FF7FAA;
 }
 
 .fab:hover, .externalLink:hover {
