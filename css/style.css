@@ -15,6 +15,10 @@ p, li, details {
     font-size: .8rem;
 }
 
+span.emoji {
+    font-size: 1.5em;
+}
+
 .highlight {
     color: aquamarine;
 }
